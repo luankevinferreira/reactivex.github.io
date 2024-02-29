@@ -3,13 +3,13 @@
 ## Tech Stack
 luankevinferreira/reactivex.github.io is built on the following main stack:
 
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Markdown](http://daringfireball.net/projects/markdown/) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [Markdown](http://daringfireball.net/projects/markdown/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Polymer](https://www.polymer-project.org) – Front-End Frameworks
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 luankevinferreira/reactivex.github.io is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1147/markdown.png' alt='Markdown'/> [Markdown](http://daringfireball.net/projects/markdown/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1147/markdown.png' alt='Markdown'/> [Markdown](http://daringfireball.net/projects/markdown/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1934/R8YcGKHV.png' alt='Polymer'/> [Polymer](https://www.polymer-project.org) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [luankevinferreira/reactivex.github.io](https://github.com/luankevinferreira/reactivex.github.io)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|01/24/24 <br/>Report generated|
+|36<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
